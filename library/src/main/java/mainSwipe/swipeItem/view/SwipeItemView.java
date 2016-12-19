@@ -1,4 +1,4 @@
-package main.swipeItem.view;
+package mainSwipe.swipeItem.view;
 
 import android.content.Context;
 import android.support.v4.view.GestureDetectorCompat;

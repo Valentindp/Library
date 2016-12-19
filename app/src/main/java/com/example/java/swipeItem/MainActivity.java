@@ -8,7 +8,7 @@ import android.os.Bundle;
 import android.view.MotionEvent;
 import android.view.View;
 
-import main.swipeItem.view.SwipeItemView;
+import mainSwipe.swipeItem.view.SwipeItemView;
 
 public class MainActivity extends AppCompatActivity {
 
