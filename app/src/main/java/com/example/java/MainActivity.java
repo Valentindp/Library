@@ -1,4 +1,4 @@
-package com.example.java.swipeItem;
+package com.example.java;
 
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
@@ -7,6 +7,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.MotionEvent;
 import android.view.View;
+
+import com.example.java.swipeItem.R;
 
 import mainSwipe.swipeItem.view.SwipeItemView;
 
