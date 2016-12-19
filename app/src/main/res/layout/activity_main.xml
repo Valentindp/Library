@@ -8,11 +8,11 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.java.library.MainActivity">
+    tools:context="com.example.java.swipeItem.MainActivity">
 
-   <com.example.library.view.SwipeItemView
+   <main.swipeItem.view.SwipeItemView
        android:layout_width="match_parent"
        android:id="@+id/swipe_item"
        android:layout_height="match_parent">
-   </com.example.library.view.SwipeItemView>
+   </main.swipeItem.view.SwipeItemView>
 </RelativeLayout>

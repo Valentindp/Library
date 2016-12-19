@@ -1,4 +1,4 @@
-package com.example.java.library;
+package main.swipeItem;
 
 import org.junit.Test;
 

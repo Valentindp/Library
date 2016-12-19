@@ -1,4 +1,4 @@
-package com.example.java.library;
+package main.swipeItem;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.java.library", appContext.getPackageName());
+        assertEquals("com.example.library.test", appContext.getPackageName());
     }
 }
